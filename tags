@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	ytcaption.py	/^    A = my_dictionary()$/;"	v
+__init__	ytcaption.py	/^    def __init__(self):$/;"	m	class:my_dictionary
+args	ytcaption.py	/^    args = parser.parse_args()$/;"	v
+capt_download	ytcaption.py	/^    def capt_download(self,link):$/;"	m	class:my_dictionary
+caption_extract	ytcaption.py	/^    def caption_extract(self):    $/;"	m	class:my_dictionary
+check_db	ytcaption.py	/^    def check_db(self,table,column,value):$/;"	m	class:my_dictionary
+check_video	ytcaption.py	/^    def check_video(self,url):$/;"	m	class:my_dictionary
+inser_value	ytcaption.py	/^    def inser_value(self,table,column,value):$/;"	m	class:my_dictionary
+list_of_words	ytcaption.py	/^    list_of_words = A.caption_extract()$/;"	v
+my_dictionary	ytcaption.py	/^class my_dictionary():$/;"	c
+new_word	ytcaption.py	/^    def new_word(self,word):$/;"	m	class:my_dictionary
+parser	ytcaption.py	/^    parser = argparse.ArgumentParser(description = 'This is dictionary argument',epilog = "Thanks for using")$/;"	v
+telegram_bot_sendtext	ytcaption.py	/^    def telegram_bot_sendtext(self,bot_token,bot_chatID,bot_message):$/;"	m	class:my_dictionary
